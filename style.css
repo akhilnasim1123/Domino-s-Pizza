@@ -1,0 +1,199 @@
+*{
+margin: 0px;
+padding: 0px;
+}body{
+    font-family: proxima-nova, sans-serif;
+    background-color: rgb(242, 242, 242);
+   
+
+}
+.header{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: flex-end;
+    background-color:rgb(0, 102, 167);
+    position: fixed;
+}.sign-in{
+    width: 237px;
+    height: 50px;
+    background-color:rgb(0, 102, 167);
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    
+}.vertical-line{
+    font-size: 25px;
+    color:rgb(93, 144, 255);
+
+    
+}.cartoon{
+    width: 27px;
+    color:rgb(255, 255, 255);
+}.my-contact{
+    font-size: 11px;
+    color:rgb(255, 255, 255);
+}.login{
+    text-decoration: none;
+    color: rgb(85, 204, 246);
+}.body{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    padding-top: 50px;
+}.part1{
+    width: 50%;
+    height: 450px;
+    background-color: rgb(242, 242, 242);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}.dominos-pizza{
+    margin-top: 28px;
+}.domino-logo{
+    width: 46%;
+    margin-left: 108px;
+}.input{
+    background-color: rgb(242, 242, 242);
+   display: flex;
+ 
+    
+   width: 100%;
+}.blank{
+    width: 100%;
+    height: 100px;
+   
+}.paragraph{
+    width: 100%;
+    height: 70px;
+    display: flex;
+}.para{
+    font-size: 22px;
+    margin-left: 2px;
+    color: rgb(106, 103, 110);
+    height: 70px;
+
+}.nothing{
+    width: 14%;
+    height: 70px;
+}.checkbox{
+    display: flex;
+    width: 100%;
+    height: 40px; 
+    margin-left: -38px;
+    margin-top: 36px;
+
+}.delivery{
+    color:rgb(0, 102, 167) ;
+}.pickup{
+    color:rgb(0, 102, 167) ;
+    margin-left: 30px;
+}.input{
+   
+   
+
+}.arrange{
+    display: flex;
+    align-items: center;
+    width: 93%;
+    height: 63px;
+    background-color: white;
+}
+
+.pin{
+    width: 16px;
+    margin-right: 14px;
+    margin-left: 10px;
+}.text{
+    width: 299%;
+    height: 40px;
+    margin-left: 0px;
+    border: 0;
+}.button{
+    margin-left: 182%;
+    width: 120px;
+    height: 39px;
+    border-radius: 4px;
+    background-color: rgb(0, 171, 0);
+    border: white;
+    color: white;
+}.part2{
+    width: 50%;
+    height: 450px;
+    background-color: rgb(242, 242, 242);
+}.domi{
+    width: 100%;
+}.img2{
+    width: 100%;
+}.prr{
+    width: 100%;
+}.bike{
+    padding-top: 108px;
+}.coupon{
+    width: 100%;
+    background-color: rgb(242, 242, 242);
+    height: 219px;
+    padding-top: 149px;
+}.offer{
+    width: 15%;
+    margin-top: 15px;
+    margin-left: 10%;
+}.off{
+margin-left: 10%;
+margin-top: 14px;
+color: rgb(106, 103, 110);
+font-size: 17px;
+}.footer{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+   
+}.first-footer{
+    display: flex;
+    height: 165px;
+    background-color:rgb(34 46 58) ;
+    
+}.sec-1{
+    display: flex;
+    flex-direction: column;
+    padding: 34px;
+    margin-left: 90px;
+    width: 50%;
+    font-size: 16px;
+    color: rgb(131, 154, 177);
+}.notes{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 16px;
+}.sec-2{
+width: 50%;
+display: flex;
+align-items: center;
+}.dom{
+    width: 41%;
+}.play{
+    width: 60%;
+    margin-top: 72px;
+}.nothing1{
+    width: 76%;
+    height: 70px;
+}.apple{
+    width: 60%;
+    margin-top: 72px;
+}.blank1{
+width: 33%;
+}.second-footer{
+    display: flex;
+    width: 100%;
+    border-top: 1px dotted rgb(82, 98, 116);
+    background: rgb(26, 39, 53);
+    color: rgb(92, 111, 131);
+    align-items: center;
+    height: 100px;
+
+}.copyright{
+    width: 33%;
+}.blank2{
+    width: 33%;
+}
